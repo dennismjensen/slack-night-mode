@@ -8,6 +8,7 @@
  });
 });
 
+
 # Slack Night Mode
 A user style for easy Slack theming. [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
