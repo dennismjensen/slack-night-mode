@@ -1,14 +1,3 @@
-# In Windows Apend to C:\Users\username\AppData\Local\slack\app-3.3.3\resources\app.asar.unpacked\src\static\ssb-interops.js
- document.addEventListener('DOMContentLoaded', function() {
- $.ajax({
-   url: 'https://raw.githubusercontent.com/dennismjensen/slack-night-mode/master/css/raw/black.css',
-   success: function(css) {
-     $("<style></style>").appendTo('head').html(css);
-   }
- });
-});
-
-
 # Slack Night Mode
 A user style for easy Slack theming. [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
